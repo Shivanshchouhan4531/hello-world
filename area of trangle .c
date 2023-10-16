@@ -16,4 +16,7 @@ int main(){
     printf("area of trangle is :%f",area);
     return 0;
 }
+
+enter side of tringle:4 5 6
+area of trangle is :9.921567
     
