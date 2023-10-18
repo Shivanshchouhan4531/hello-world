@@ -10,6 +10,11 @@ int main(){
         fact = fact*i;
         i++;
     }
+   /* for (i;num>=i;i++){
+        fact = fact*i;
+        
+    }*/
+    
     printf("factorial is :%d\n",fact);
     return 0;
     
