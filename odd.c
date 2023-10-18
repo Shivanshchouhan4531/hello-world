@@ -1,4 +1,4 @@
-// write a program to print 5 to 50 odd nmbers using continue statment
+ // write a program to print 5 to 50 odd nmbers using continue statment
 #include<stdio.h>
 int main (){
     
