@@ -14,6 +14,10 @@ int main(){
         fact = fact*i;
         
     }*/
+   /*  do{
+        fact = fact*i;
+        i++;
+    } while(num>=i);*/
     
     printf("factorial is :%d\n",fact);
     return 0;
